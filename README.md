@@ -4,7 +4,7 @@ i am solving the hackerrank problems to improve my problem solving skills
 ## problem solved
 1.check whether a given year is leap year
 2.read an integer from input without using a string methods
-## foldaer structure
+## folder structure
 hackerrank/
 leap_year.py
 read_integer.py
