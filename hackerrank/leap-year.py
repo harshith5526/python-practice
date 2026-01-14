@@ -5,6 +5,7 @@ def is_leap(year):
     # if the year is leap returns true
     returnTrue
   else:
+    # if the year is not leap returns false
     return False
   return leap
 year=int(input())
