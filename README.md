@@ -13,3 +13,4 @@ i am solving the hackerrank problems to improve my problem solving skills
 hackerrank/
 leap_year.py
 read_integer.py
+list-comprehension.py
