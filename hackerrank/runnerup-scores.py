@@ -3,4 +3,5 @@ n=int(input())
 arr=map(int,input().split())
 scores=list(set(arr))
 scores.remove(max(scores))
+#print the scores
 print(max(scores))
