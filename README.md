@@ -10,11 +10,10 @@ i am solving the hackerrank problems to improve my problem solving skills
 
 4.finding the runner scores from a list of integers using python
 ## folder structure
-hackerrank/
-leap_year.py
+hackerrank/leap_year.py
 
-read_integer.py
+hackerrank/read_integer.py
 
-list-comprehension.py
+hackerrank/list-comprehension.py
 
-runnerup-scores.py
+hackerrank/runnerup-scores.py
